@@ -7,6 +7,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 **[🔥 Project Page (Coming Soon)](#)** | **[📄 Paper](https://arxiv.org/abs/2603.10744)** 
+</div>
 
 > **Notice:** JiT has been accepted by CVPR2026, and we are actively cleaning up the codebase for public release. The full code will be available soon. Please ⭐ **Star** this repository to stay updated!
 
