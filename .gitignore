@@ -1,0 +1,7 @@
+__pycache__/
+outputs*/
+*.mp4
+*.log
+*.txt
+*.mat
+
